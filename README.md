@@ -1,16 +1,73 @@
-# adiutor
+# 🎙️ Adiutor
 
-A new Flutter project.
+A modern Flutter application for medical professionals to record and manage patient consultations.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.29.3-blue)
+![Dart](https://img.shields.io/badge/Dart-3.7.2-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Record medical consultations with speech-to-text
+- 👥 Manage patient records
+- 🎯 Easy navigation between patients and recordings
+- 🌐 Polish language support for speech recognition
+- 📱 Beautiful Material Design UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+- Flutter SDK (3.29.3 or higher)
+- Dart SDK (3.7.2 or higher)
+- Android Studio / VS Code
+- Android SDK / Xcode (for iOS development)
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/adiutor.git
+```
+
+2. Navigate to the project directory
+```bash
+cd adiutor
+```
+
+3. Install dependencies
+```bash
+flutter pub get
+```
+
+4. Run the app
+```bash
+flutter run
+```
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) - UI Framework
+- [speech_to_text](https://pub.dev/packages/speech_to_text) - Speech recognition
+- [permission_handler](https://pub.dev/packages/permission_handler) - Permission management
+
+## 📱 Screenshots
+
+*Coming soon*
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+Your Name - [@yourusername](https://github.com/yourusername)
+
+## 🙏 Acknowledgments
+
+- Flutter team for the amazing framework
+- All contributors who will help improve this project
