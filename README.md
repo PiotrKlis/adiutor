@@ -13,6 +13,7 @@ A modern Flutter application for medical professionals to record and manage pati
 - 🎯 Easy navigation between patients and recordings
 - 🌐 Polish language support for speech recognition
 - 📱 Beautiful Material Design UI
+- 🔒 Secure and private
 
 ## 🚀 Getting Started
 
@@ -65,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@PiotrKlis](https://github.com/PiotrKlis)
 
 ## 🙏 Acknowledgments
 
